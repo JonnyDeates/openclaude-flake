@@ -31,7 +31,7 @@
 
           # Use the hash you got from the previous successful-ish build
           # If you don't have it, use pkgs.lib.fakeHash and run again
-          npmDepsHash = "sha256-p0zY/I+AGeqsm3u1bnnKaQYcDdmmJzDid9vxBxAQWK4=";
+          npmDepsHash = "sha256-8d0eBAfxaAheYWYb6OFhnBAcRkk+i33L2Yj4WwzYqFk=";
 
           nativeBuildInputs = [ pkgs.makeWrapper pkgs.bun ];
 
