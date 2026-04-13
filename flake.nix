@@ -21,7 +21,7 @@
             owner = "gitlawb";
             repo = "openclaude";
             rev = "main";
-            hash = "sha256-tt/XMUhu54Db1+sPoLWxYMGtISRyB5M76JnlZp02V3M=";
+            hash = "sha256-TJI7tK2u4ioU5CiaTjGh0133XrVBNxldcVP1XI2q4g4=";
           };
 
           # Inject the lockfile you generated
